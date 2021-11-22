@@ -1,3 +1,3 @@
 # it-solutions
 
-## Inicio do desenvolvimento
+## Criando um Site Com HTML, CSS E JS Responsivel
